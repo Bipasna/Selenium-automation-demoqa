@@ -6,15 +6,7 @@ This is a practice Selenium automation project for the [DemoQA](https://demoqa.c
 
 ## 📁 Project Structure
 S_Demoqa/
-│
-├── tests/ # Test scripts
-├── pages/ # Page Object Model files
-├── drivers/ # WebDriver executables
-├── images/ # Test image uploads
-├── utils/ # Utility files (if any)
-└── README.md
 
----
 
 ## 🧰 Dependencies
 
