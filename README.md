@@ -18,16 +18,13 @@ This project uses the following tools and libraries:
 - [Allure-pytest (optional for reporting)](https://pypi.org/project/allure-pytest/)
 - [WebDriver Manager (optional)](https://pypi.org/project/webdriver-manager/) *(if not using manual drivers)*
 
-Install them using pip:
 
-```bash
-pip install -r requirements.txt
 
-Or manually:
+HOW TO INSTALL ALL DEPENDENCIES ALL AT ONCE
 
-In bash
-pip install selenium pytest allure-pytest
+- pip install -r requirements.txt
+
 
 
 HOW TO RUN THE TESTS
-pytest -s tests/FormTest/form_test.py
+- pytest -s tests/FormTest/form_test.py
